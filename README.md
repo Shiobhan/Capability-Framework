@@ -43,7 +43,7 @@
 **Self-efficacy**	
 * Has belief and confidence in capacity to succeed.
 
-**Open-minded**	
+**Open-minded**
 * Open to new ideas and ways of knowing. Examines own beliefs when presented with new evidence. 
 
 **Collaborative** 	
