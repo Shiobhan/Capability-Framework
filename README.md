@@ -8,7 +8,7 @@
  **Knowledge of the research lifecycle and associated practices and resources**
  * Understands research workflows and practices, including identification of funding opportunities, research data management, venues for publishing and dissemination, and collection of research metrics and impacts. 
  
-** Knowledge of the higher education sector**
+**Knowledge of the higher education sector**
 * Understands the history, organisation, and governance of higher education institutions at local, national, and international level.
 
 **Knowledge of disciplines/domains** 	
@@ -81,9 +81,11 @@
 **Resilient**	
 * Can cope with change and uncertainty. Maintains a positive outlook and seeks potential opportunities even in challenging situations.  
 
-**Enterprising**	Shows initiative and resourcefulness.  Seeks opportunities within and beyond the Library.  
+**Enterprising**	
+* Shows initiative and resourcefulness.  Seeks opportunities within and beyond the Library.  
 
-**Empathetic**	Is able to identify and understand other people's thoughts and feelings.
+**Empathetic**	
+* Is able to identify and understand other people's thoughts and feelings.
 
 **Patience**	
 * Accepts or tolerates delays, problems, or further issues, without becoming upset. 
@@ -219,10 +221,10 @@
 * Is able to influence changes in behaviour, attitudes, and practices of others.  Gains support through consultation and negotiation.
 
 **Instructional skills**	
-Is able to effectively use instructional delivery techniques like questioning, discussion, and demonstration. Inclusively engages and motivates attendees, communicating ideas effectively, and providing safe space for learning.
+* Is able to effectively use instructional delivery techniques like questioning, discussion, and demonstration. Inclusively engages and motivates attendees, communicating ideas effectively, and providing safe space for learning.
 
 **Negotiation skills**	
-Is able to work with two or more parties to achieve agreement.  Understands the constraints of licencing agreements and works with all parties to resolve arising issues.
+* Is able to work with two or more parties to achieve agreement.  Understands the constraints of licencing agreements and works with all parties to resolve arising issues.
 
 **Research skills**	
 * Is able to conduct a significant research project independently and with a high level of theoretical understanding.    
