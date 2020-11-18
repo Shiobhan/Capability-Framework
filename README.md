@@ -67,6 +67,12 @@
 **Big picture focused**	
 * Looks at situations, challenges, or ideas with the widest possible context including people, cultures, organizational structures, and systems.
 
+**Sustainability aware**	
+* Supports using resources (ecological, social, economic) sustainably. 
+
+**Equality Seeking**	
+* Seeks to behave in a way that supports equality, diversity, and inclusion.
+
 ## Personal Qualities
 
 **Curious**	
@@ -92,12 +98,6 @@
 
 **Creativity** 	
 * Divergent thinker able to generate new ideas or alternative directions. 
-
-**Sustainability behaviour**	
-* Behaves in a way that supports using resources (ecological, social, economic) sustainably. 
-
-**Equality behaviour**	
-* Behaves in a way that supports equality, diversity, and inclusion.
 
 ## Practice Knowledge
 
